@@ -17,3 +17,9 @@
 ### Backup data to a server
 - tags: borg, backup, rsync.net
 - [link](https://magnusson.io/post/backups/)
+
+## Thought pieces
+
+### If revenue model and culture don't align, revenue model wins
+- [link](https://somehowmanage.com/2020/09/20/revenue-model-not-culture-is-the-dominant-term/)
+- Corollary, paid is better so that you want the user to be happy
