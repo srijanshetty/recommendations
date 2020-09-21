@@ -9,5 +9,11 @@
 ### Explain money creation in banks
 - [link](https://www.attejuvonen.fi/money-out-of-thin-air/)
 
-## Why we need philosohpy
+### Why we need philosohpy
 - [link](https://markmanson.net/why-we-all-need-philosophy)
+
+## Technical
+
+### Backup data to a server
+- tags: borg, backup, rsync.net
+- [link](https://magnusson.io/post/backups/)
