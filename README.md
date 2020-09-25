@@ -23,3 +23,7 @@
 ### If revenue model and culture don't align, revenue model wins
 - [link](https://somehowmanage.com/2020/09/20/revenue-model-not-culture-is-the-dominant-term/)
 - Corollary, paid is better so that you want the user to be happy
+
+## Few laws
+- Morgan Housel
+- [link](https://www.collaborativefund.com/blog/a-few-rules/)
