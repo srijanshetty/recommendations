@@ -18,6 +18,13 @@
 - tags: borg, backup, rsync.net
 - [link](https://magnusson.io/post/backups/)
 
+### Notes on structured concurrency; go considered harmful
+- [link](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/)
+- tags: goto, go, theads, structured concurrency, concurrency
+- gist:
+    - like `goto` statement, `go` statement (or thread spawning semantics) are bad.
+    - The author proposes an alternative called structured concurrency.
+
 ## Thought pieces
 
 ### If revenue model and culture don't align, revenue model wins
