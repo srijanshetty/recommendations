@@ -12,6 +12,9 @@
 ### Why we need philosohpy
 - [link](https://markmanson.net/why-we-all-need-philosophy)
 
+### Status as a Service
+- [link](https://www.eugenewei.com/blog/2019/2/19/status-as-a-service)
+
 ## Technical
 
 ### Backup data to a server
