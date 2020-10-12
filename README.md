@@ -28,6 +28,12 @@
     - like `goto` statement, `go` statement (or thread spawning semantics) are bad.
     - The author proposes an alternative called structured concurrency.
 
+### Philosophy of UNIX
+- [link](https://homepage.cs.uri.edu/~thenry/resources/unix_art/ch01s06.html)
+
+### UNIX for Poets
+- [link](web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf)
+
 ## Thought pieces
 
 ### If revenue model and culture don't align, revenue model wins
