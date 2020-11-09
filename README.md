@@ -34,6 +34,9 @@
 ### UNIX for Poets
 - [link](web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf)
 
+### OAuth for dummies
+- [link](https://marktrapp.com/blog/2009/09/17/oauth-dummies/)
+
 ## Thought pieces
 
 ### If revenue model and culture don't align, revenue model wins
