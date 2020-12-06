@@ -17,6 +17,10 @@
 
 ## Technical
 
+### Better Makefiles
+- tags: make, sentiles, file, build
+- [link]:(https://tech.davis-hansson.com/p/make/)
+
 ### Backup data to a server
 - tags: borg, backup, rsync.net
 - [link](https://magnusson.io/post/backups/)
@@ -37,11 +41,19 @@
 ### OAuth for dummies
 - [link](https://marktrapp.com/blog/2009/09/17/oauth-dummies/)
 
+## Python
+
+### Guide to asynchio
+- [Guide to asynchio](https://www.integralist.co.uk/posts/python-asyncio/)
+
 ## Thought pieces
 
 ### If revenue model and culture don't align, revenue model wins
 - [link](https://somehowmanage.com/2020/09/20/revenue-model-not-culture-is-the-dominant-term/)
 - Corollary, paid is better so that you want the user to be happy
+
+### Banks create money out of thin air
+- [link](https://www.attejuvonen.fiundefined/money-out-of-thin-air/)
 
 ## Few laws
 - Morgan Housel
