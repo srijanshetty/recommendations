@@ -41,6 +41,9 @@
 ### OAuth for dummies
 - [link](https://marktrapp.com/blog/2009/09/17/oauth-dummies/)
 
+### PWA to Webapp
+- [link](https://www.simicart.com/blog/pwa-app-stores/)
+
 ## Python
 
 ### Guide to asynchio
