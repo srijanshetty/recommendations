@@ -47,6 +47,9 @@
 ### GitHub Action, AWS ECS, CI/CD
 - [link](https://medium.com/javascript-in-plain-english/deploy-your-node-app-to-aws-container-service-via-github-actions-build-a-pipeline-c114adeb8903)
 
+### Identity Pools for Buckets
+- [link](https://haydnjmorris.medium.com/uploading-photos-to-aws-s3-getting-started-with-cognito-and-iam-c96ba5b5496d)
+
 ## Python
 
 ### Guide to asynchio
