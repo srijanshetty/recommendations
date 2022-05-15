@@ -1,3 +1,8 @@
+## DeFi
+
+### Tomb Finance
+[link](https://medium.com/@bonnotguillaume/defi-tomb-finance-ftm-on-steroids-with-farming-auto-compounding-using-grim-finance-9b40bb57c108)
+
 ## Great long form articles
 
 ### Supermemo - 20 rules of formatting knowledge
