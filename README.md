@@ -55,6 +55,9 @@
 ### Identity Pools for Buckets
 - [link](https://haydnjmorris.medium.com/uploading-photos-to-aws-s3-getting-started-with-cognito-and-iam-c96ba5b5496d)
 
+### Neovim LSP setup
+- [link](https://www.integralist.co.uk/posts/neovim/)
+
 ## Python
 
 ### Guide to asynchio
