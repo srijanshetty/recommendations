@@ -75,3 +75,22 @@
 ## Few laws
 - Morgan Housel
 - [link](https://www.collaborativefund.com/blog/a-few-rules/)
+
+## Tools for developers
+
+### Hosting
+- [render.com](https://render.com)
+- [fly.io](https://fly.io)
+- [deno deploy](https://deno.com/deploy)
+- Cloudflare workers
+- [vercel.com](https://vercel.com)
+
+## Rich text
+- [textual](https://textual.io)
+- [charm.sh](https://charm.sh)
+
+## Cheaper Hosting
+- E2E networks
+- OVH Cloud
+
+
