@@ -58,6 +58,9 @@
 ### Neovim LSP setup
 - [link](https://www.integralist.co.uk/posts/neovim/)
 
+### Google AppsScript ImportJSON
+- [link](https://blog.coingecko.com/import-coingecko-cryptocurrency-data-into-google-sheets/)
+
 ## Python
 
 ### Guide to asynchio
