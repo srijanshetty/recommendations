@@ -61,6 +61,9 @@
 ### Google AppsScript ImportJSON
 - [link](https://blog.coingecko.com/import-coingecko-cryptocurrency-data-into-google-sheets/)
 
+### GPG Tutorial
+- [link](https://danielpecos.com/2019/03/30/how-to-rotate-your-openpgp-gnupg-keys/)
+
 ## Python
 
 ### Guide to asynchio
