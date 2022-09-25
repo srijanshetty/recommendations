@@ -64,6 +64,9 @@
 ### GPG Tutorial
 - [link](https://danielpecos.com/2019/03/30/how-to-rotate-your-openpgp-gnupg-keys/)
 
+### Lightly Sandbox Homebrew
+- [link](https://gist.github.com/pudquick/29bc95b6c49703992981864e48f8e341)
+
 ## Python
 
 ### Guide to asynchio
