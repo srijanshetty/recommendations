@@ -28,6 +28,9 @@
 ### ETH L2 Calldata Pricing
 - [link](https://forum.celestia.org/t/ethereum-rollup-call-data-pricing-analysis/141)
 
+### Trust minimized bridges
+- [link](https://blog.celestia.org/clusters)
+
 ## Technical
 
 ### Better Makefiles
