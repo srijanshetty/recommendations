@@ -22,17 +22,6 @@
 
 ## Technical
 
-### Modular Blockchains
-- [link](https://mirror.xyz/yicheng.eth/7q29a3lMXkG2f51-BrTLxovS3tqnwf4qi7_VWFhnqKc)
-
-### ETH L2 Calldata Pricing
-- [link](https://forum.celestia.org/t/ethereum-rollup-call-data-pricing-analysis/141)
-
-### Trust minimized bridges
-- [link](https://blog.celestia.org/clusters)
-
-## Technical
-
 ### Better Makefiles
 - tags: make, sentiles, file, build
 - [link]:(https://tech.davis-hansson.com/p/make/)
@@ -82,6 +71,21 @@
 
 ### Guide to asynchio
 - [Guide to asynchio](https://www.integralist.co.uk/posts/python-asyncio/)
+
+## Blockchains
+
+### Modular Blockchains
+- [link](https://mirror.xyz/yicheng.eth/7q29a3lMXkG2f51-BrTLxovS3tqnwf4qi7_VWFhnqKc)
+
+### ETH L2 Calldata Pricing
+- [link](https://forum.celestia.org/t/ethereum-rollup-call-data-pricing-analysis/141)
+
+### Trust minimized bridges
+- [link](https://blog.celestia.org/clusters)
+
+### Account Abstraction in ETH
+- [link](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
+
 
 ## Thought pieces
 
