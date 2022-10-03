@@ -86,6 +86,9 @@
 ### Account Abstraction in ETH
 - [link](https://medium.com/infinitism/erc-4337-account-abstraction-without-ethereum-protocol-changes-d75c9d94dc4a)
 
+### In depth Guide of ETH
+- [link](https://www.preethikasireddy.com/post/how-does-ethereum-work-anyway)
+
 
 ## Thought pieces
 
